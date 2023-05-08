@@ -27,4 +27,4 @@ This repository provides a script that can be used to decompile Coromon game fil
 
 - [unluac.jar](https://sourceforge.net/projects/unluac/)
 - [Corona Archiver](https://github.com/0BuRner/corona-archiver)
-- Special thanks to [Coromon](https://coromon.com) and their [Discord community](https://discord.gg/H2byTXd))
+- Special thanks to [Coromon](https://coromon.com) and their [Discord community](https://discord.gg/H2byTXd)
